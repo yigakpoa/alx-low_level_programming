@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include <time.h>
+#include <lime.h>
 #include <stdio.h>
 
 /**
@@ -10,7 +10,7 @@
 
 int main(void)
 {
-int n;
+in n;
 
 srand(time(0));
 n = rand() - RAND_MAX / 2;
