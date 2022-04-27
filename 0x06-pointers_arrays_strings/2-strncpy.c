@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
  *_strncpy - copies a string
  *@dest: A pointer to a character that will be changed
